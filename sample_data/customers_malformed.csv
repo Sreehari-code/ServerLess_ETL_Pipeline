@@ -1,0 +1,3 @@
+customer_id,name,email,age,country
+CUST999,"Unclosed quote string,test@domain.com,30,USA
+CUST998,Valid,valid@test.com,30,USA

@@ -1,0 +1,8 @@
+employee_id,employee_name,department,salary
+EMP201,Alice Parker,Human Resources,65000.00
+EMP202,Bob Martin,,78000.00
+EMP203,Bad Salary Person,Finance,not_a_salary
+EMP204,,IT Support,88000.00
+EMP205,Negative Salary Person,Operations,-15000.00
+EMP201,Duplicate Alice,Human Resources,65000.00
+EMP206,Diana Prince,Engineering,110000.00

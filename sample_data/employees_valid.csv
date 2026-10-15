@@ -1,0 +1,6 @@
+employee_id,employee_name,department,salary
+EMP101,Sarah Connor,Engineering,95000.00
+EMP102,John Matrix,Security,82000.50
+EMP103,Ellen Ripley,Operations,105000.00
+EMP104,Kyle Reese,Logistics,71000.00
+EMP105,Alan Schaefer,Management,120000.00

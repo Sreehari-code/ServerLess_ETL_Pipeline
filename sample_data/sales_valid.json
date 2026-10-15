@@ -1,0 +1,23 @@
+[
+  {
+    "order_id": "ORD-501",
+    "product": "Cloud Server Pro",
+    "quantity": 2,
+    "price": 249.99,
+    "order_date": "2026-10-01"
+  },
+  {
+    "order_id": "ORD-502",
+    "product": "Enterprise SSD",
+    "quantity": 5,
+    "price": 189.50,
+    "order_date": "2026-10-02"
+  },
+  {
+    "order_id": "ORD-503",
+    "product": "Gigabit Switch",
+    "quantity": 1,
+    "price": 599.00,
+    "order_date": "2026-10-03"
+  }
+]

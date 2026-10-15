@@ -1,0 +1,7 @@
+# ==============================================================================
+# AWS Lambda Deployment Dependencies
+# Note: boto3 and botocore are pre-installed in the AWS Lambda Python runtime.
+# Our ETL engine core is designed with zero heavy dependencies (pure Python),
+# which keeps the Lambda ZIP file under 1MB and guarantees sub-second cold starts!
+# ==============================================================================
+pydantic>=2.0.0

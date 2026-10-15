@@ -1,0 +1,7 @@
+order_id,product,quantity,price,order_date
+ORD-701,Mechanical Keyboard,3,129.99,2026-10-10
+ORD-702,Wireless Mouse,1,49.99,
+ORD-703,Bad Quantity Item,three,199.99,2026-10-11
+ORD-704,Negative Quantity Item,-5,299.00,2026-10-12
+ORD-701,Duplicate Order Keyboard,2,129.99,2026-10-13
+ORD-705,4K Gaming Monitor,1,450.00,2026-10-14

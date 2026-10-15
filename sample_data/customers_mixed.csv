@@ -1,0 +1,11 @@
+customer_id,name,email,age,country
+CUST3001,John Doe,john.doe@example.com,30,USA
+CUST3002,Jane Smith,jane.smith-bademail,28,Canada
+CUST3003,,no.name@domain.com,40,UK
+CUST3004,Invalid Age Person,valid.email@corp.com,-5,India
+CUST3005,Too Old Person,senior@history.org,150,Germany
+CUST3001,Duplicate John,john.duplicate@example.com,30,United States
+CUST3006,Sarah Connor,sarah.c@sky.net,34,Australia
+CUST3007,Non Integer Age,test@domain.com,twenty-five,France
+CUST3008,Missing Email Person,,42,India
+CUST3009,Valid User,valid.user@cloudhack.io,22,Singapore

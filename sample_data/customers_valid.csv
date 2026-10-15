@@ -1,0 +1,6 @@
+customer_id,name,email,age,country
+CUST1001,Alice Johnson,alice.johnson@example.com,28,USA
+CUST1002,Bob Smith,bob.smith@company.org,35,United Kingdom
+CUST1003,Charlie Davis,charlie.d@techcorp.io,42,Canada
+CUST1004,Devi Patel,devi.patel@global.in,31,India
+CUST1005,Emma Wilson,emma.w@domain.de,24,Germany

@@ -1,0 +1,38 @@
+{
+  "Records": [
+    {
+      "eventVersion": "2.1",
+      "eventSource": "aws:s3",
+      "awsRegion": "ap-south-1",
+      "eventTime": "2026-10-15T10:00:00.000Z",
+      "eventName": "ObjectCreated:Put",
+      "userIdentity": {
+        "principalId": "AWS:EXAMPLE"
+      },
+      "requestParameters": {
+        "sourceIPAddress": "127.0.0.1"
+      },
+      "responseElements": {
+        "x-amz-request-id": "EXAMPLE123",
+        "x-amz-id-2": "EXAMPLE456"
+      },
+      "s3": {
+        "s3SchemaVersion": "1.0",
+        "configurationId": "testConfigRule",
+        "bucket": {
+          "name": "my-serverless-etl-bucket",
+          "ownerIdentity": {
+            "principalId": "EXAMPLE"
+          },
+          "arn": "arn:aws:s3:::my-serverless-etl-bucket"
+        },
+        "object": {
+          "key": "input/customers%2Bbatch%201.csv",
+          "size": 1024,
+          "eTag": "d41d8cd98f00b204e9800998ecf8427e",
+          "sequencer": "0055AED6DCD90281E5"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "customer_id": "CUST2001",
+    "name": "Fiona Gallagher",
+    "email": "fiona.g@chicago.us",
+    "age": 29,
+    "country": "United States"
+  },
+  {
+    "customer_id": "CUST2002",
+    "name": "George Clarke",
+    "email": "george.c@design.co.uk",
+    "age": 45,
+    "country": "UK"
+  },
+  {
+    "customer_id": "CUST2003",
+    "name": "Haruto Tanaka",
+    "email": "haruto.t@tokyo.jp",
+    "age": 33,
+    "country": "Japan"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "customer_id": "CUST4001",
+    "name": "Maria Garcia",
+    "email": "maria.garcia@tech.es",
+    "age": 27,
+    "country": "Spain"
+  },
+  {
+    "customer_id": "CUST4002",
+    "name": "Invalid Email User",
+    "email": "@missingusername.com",
+    "age": 35,
+    "country": "USA"
+  },
+  {
+    "customer_id": "CUST4001",
+    "name": "Duplicate Maria",
+    "email": "maria.two@tech.es",
+    "age": 27,
+    "country": "Spain"
+  },
+  {
+    "customer_id": "CUST4003",
+    "name": "Negative Age User",
+    "email": "negative@test.org",
+    "age": -10,
+    "country": "Germany"
+  },
+  {
+    "customer_id": "CUST4004",
+    "name": "Priya Sharma",
+    "email": "priya.sharma@mumbai.in",
+    "age": 29,
+    "country": "India"
+  }
+]
